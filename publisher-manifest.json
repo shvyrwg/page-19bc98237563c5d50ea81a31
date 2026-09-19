@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "0de93bb132d88446c4a389dc",
+  "owner": "shvyrwg",
+  "repo": "page-19bc98237563c5d50ea81a31",
+  "title": "Clash Mi客户端快速下载",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "19bc98237563c5d50ea81a31",
+      "a": "BosLife",
+      "b": "Clash Mi客户端快速下载",
+      "entity": "BosLife",
+      "brand": "Clash Mi客户端快速下载",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "820b211a659788ccda956d9ad8dea4f70657730f2470b33ac0fbb7b58342a06b",
+      "content": {
+        "primary_entity": "BosLife",
+        "keyword1": "BosLife",
+        "keyword2": "Clash Mi客户端快速下载",
+        "content": {
+          "AI_DESCRIPTION": "，围绕设备选择、订阅配置和套餐对比提供清晰路径。BosLife 提供基础版、旗舰版与团队版三档方案，分别对应每月 100GB、300GB 和 1000GB 流量，支持 3 台、5 台和 20 台设备同时在线。选择时先确认常用设备数量与月均流量，再结合流媒体解锁、专线加速和工单支持需求决定档位。订阅导入后可按各客户端文档完成配置，在手机、电脑和路由器上分别设置。",
+          "AI_HERO_SUBTITLE": "多设备订阅，按需选套餐",
+          "AI_HERO_INTRO": "BosLife 是一款面向多设备用户的海外加速器品牌，提供基础版、旗舰版和团队版三档订阅方案。用户可依据设备数量、流量需求和上网场景选择合适档位，再按所选客户端文档完成订阅导入与配置，实现手机、电脑和平板等设备的上网加速。",
+          "AI_VISUAL_TITLE": "BosLife 多设备加速方案",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 3 至 20 台设备",
+          "AI_HIGHLIGHT_2": "月流量 100GB 至 1000GB 可选",
+          "AI_HIGHLIGHT_3": "按年付费享更低月均价格",
+          "AI_FEATURES_TITLE": "套餐与设备参考",
+          "AI_FEATURES_INTRO": "从设备数量、流量规模和订阅周期三个角度对比套餐，快速定位常用档位。",
+          "AI_FEATURE_TITLE_1": "按设备数选档",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台，按常用设备数量选择对应档位即可。",
+          "AI_FEATURE_TITLE_2": "按流量定规模",
+          "AI_FEATURE_TEXT_2": "月流量从 100GB 到 1000GB 分档，日常浏览与视频使用可选基础版，多设备高频使用适合旗舰版或团队版。",
+          "AI_FEATURE_TITLE_3": "订阅周期影响单价",
+          "AI_FEATURE_TEXT_3": "按月付费灵活，按年付费折算后月均更低，长期使用可优先考虑年付方案。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLIENTS_INTRO": "不同操作系统适配的客户端各有差异，按设备类型选择对应版本并参考其订阅导入说明。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，年付分别约 ¥150、¥350 和 ¥850，可按设备数与流量需求对比选择。",
+          "AI_GUIDE_TITLE": "订阅配置三步",
+          "AI_GUIDE_INTRO": "从选套餐到完成配置，按设备类型和客户端文档依次操作即可使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "根据常用设备数量与月流量需求，在基础版、旗舰版和团队版之间选定档位。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认设备操作系统与客户端版本要求，按设备类型准备对应的订阅配置环境。",
+          "AI_STEP_TITLE_3": "依客户端文档配置订阅",
+          "AI_STEP_TEXT_3": "参照所选客户端的订阅导入文档完成添加与连接，随后即可在已配置设备上使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与套餐周期。",
+          "AI_CLOSING_TITLE": "选好套餐，按设备配置订阅",
+          "AI_CLOSING_TEXT": "比较三档套餐的设备数与流量，确认常用设备后按对应客户端文档完成订阅导入即可开始使用。",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、3 台设备，适合手机加电脑的轻度使用；旗舰版每月 300GB、5 台设备，并带 IPLC 专线与流媒体解锁；团队版每月 1000GB、20 台设备，适合多人共享。",
+          "AI_FAQ_ANSWER_2": "按年付更划算：基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年，相当于月付价格的约八三折，长期使用选年付更省。",
+          "AI_FAQ_ANSWER_3": "基础版 3 台、旗舰版 5 台、团队版 20 台，均为同时在线设备数。如果家里有手机、平板、电脑和电视盒子，建议直接选旗舰版。",
+          "AI_FAQ_ANSWER_4": "在对应客户端内找到订阅或配置导入入口，粘贴购买后获得的订阅链接，更新节点列表后选择线路连接即可。不同客户端界面略有差异，可参考其配置文档。",
+          "AI_FAQ_ANSWER_5": "日常刷网页、看视频选基础版；有游戏加速和原生流媒体解锁需求选旗舰版；需要多人共享、企业定制路由则选团队版。三档都支持按年付。",
+          "AI_FAQ_QUESTION_1": "三档套餐分别适合什么使用场景？",
+          "AI_FAQ_QUESTION_2": "按月付和按年付价格差多少？",
+          "AI_FAQ_QUESTION_3": "同时在线设备数量怎么限制？",
+          "AI_FAQ_QUESTION_4": "订阅链接如何导入客户端？",
+          "AI_FAQ_QUESTION_5": "如何判断自己该选哪一档套餐？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "2e1652c8d79cecf1857dbad6ae55b16c8e2d0218e73a2993c41dd16e12ceecd6",
+    "sitemap.xml": "6560356e0ee8f2d0b8c97ba279e65b914497d25b89a888ca50f275582c1d7bda",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "db785349ecd5cdaa9c577d88ac25a3f2f133b47075985381e037926f4589a3e7"
+}
